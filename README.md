@@ -35,3 +35,10 @@ Each notebook is a hands-on implementation of a specific model or inference meth
 git clone https://github.com/lqrz/probabilistic_deep_learning.git
 cd probabilistic_deep_learning
 
+
+---
+
+## Dependencies
+```bash
+pip install tensorflow tensorflow-probability numpy matplotlib jupyter
+
